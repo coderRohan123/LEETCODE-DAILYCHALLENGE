@@ -8,3 +8,4 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 6:1235. Maximum Profit in Job Scheduling
 ## 7:446. Arithmetic Slices II - Subsequence
 ## 8:938. Range Sum of BST
+## 9:872. Leaf-Similar Trees
