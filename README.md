@@ -9,3 +9,4 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 7:446. Arithmetic Slices II - Subsequence
 ## 8:938. Range Sum of BST
 ## 9:872. Leaf-Similar Trees
+## 10: 2385. Amount of Time for Binary Tree to Be Infected
