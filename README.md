@@ -11,3 +11,4 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 9:872. Leaf-Similar Trees
 ## 10: 2385. Amount of Time for Binary Tree to Be Infected
 ## 11:1026. Maximum Difference Between Node and Ancestor
+## 12:1704. Determine if String Halves Are Alike
