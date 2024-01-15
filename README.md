@@ -13,3 +13,5 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 11:1026. Maximum Difference Between Node and Ancestor
 ## 12:1704. Determine if String Halves Are Alike
 ## 13:1347. Minimum Number of Steps to Make Two Strings Anagram
+## 14:1657. Determine if Two Strings Are Close
+## 15:2225. Find Players With Zero or One Losses
