@@ -15,3 +15,4 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 13:1347. Minimum Number of Steps to Make Two Strings Anagram
 ## 14:1657. Determine if Two Strings Are Close
 ## 15:2225. Find Players With Zero or One Losses
+## 16:380. Insert Delete GetRandom O(1)
