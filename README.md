@@ -17,3 +17,8 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 15:2225. Find Players With Zero or One Losses
 ## 16:380. Insert Delete GetRandom O(1)
 ## 17:1207. Unique Number of Occurrences
+## !8:70. Climbing Stairs
+## 19:931. Minimum Falling Path Sum
+## 20:907. Sum of Subarray Minimums
+## 21:198. House Robber
+## 22:645. Set Mismatch
