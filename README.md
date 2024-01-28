@@ -26,7 +26,7 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 24:1143. Longest Common Subsequence
 ## 26:576. Out of Boundary Path
 ## 27:629. K Inverse Pairs Array
-## 28:
+## 28:1074. Number of Submatrices That Sum to Target
 ## 29:
 ## 30:
 ## 31:
