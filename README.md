@@ -27,7 +27,7 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 26:576. Out of Boundary Path
 ## 27:629. K Inverse Pairs Array
 ## 28:1074. Number of Submatrices That Sum to Target
-## 29:
+## 29:232. Implement Queue using Stacks
 ## 30:
 ## 31:
 ## 32:
