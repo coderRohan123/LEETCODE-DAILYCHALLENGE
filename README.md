@@ -28,7 +28,7 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 27:629. K Inverse Pairs Array
 ## 28:1074. Number of Submatrices That Sum to Target
 ## 29:232. Implement Queue using Stacks
-## 30:
+## 30:150. Evaluate Reverse Polish Notation
 ## 31:
 ## 32:
 ## 33:
