@@ -29,7 +29,7 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 28:1074. Number of Submatrices That Sum to Target
 ## 29:232. Implement Queue using Stacks
 ## 30:150. Evaluate Reverse Polish Notation
-## 31:
+## 31:739. Daily Temperatures
 ## 32:
 ## 33:
 ## 34:
