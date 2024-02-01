@@ -30,7 +30,7 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 29:232. Implement Queue using Stacks
 ## 30:150. Evaluate Reverse Polish Notation
 ## 31:739. Daily Temperatures
-## 32:
+## 32:2966. Divide Array Into Arrays With Max Difference
 ## 33:
 ## 34:
 ## 35:
