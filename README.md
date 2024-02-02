@@ -31,7 +31,7 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 30:150. Evaluate Reverse Polish Notation
 ## 31:739. Daily Temperatures
 ## 32:2966. Divide Array Into Arrays With Max Difference
-## 33:
+## 33:1291. Sequential Digits
 ## 34:
 ## 35:
 ## 36:
