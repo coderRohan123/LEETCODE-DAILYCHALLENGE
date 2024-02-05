@@ -34,7 +34,7 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 33:1291. Sequential Digits
 ## 34:1043. Partition Array for Maximum Sum
 ## 35:76. Minimum Window Substring
-## 36:
+## 36:387. First Unique Character in a String
 ## 37:
 ## 38:
 ## 39:
