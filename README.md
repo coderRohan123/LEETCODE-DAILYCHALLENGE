@@ -37,6 +37,21 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 36:387. First Unique Character in a String
 ## 37:49. Group Anagrams
 ## 38:451. Sort Characters By Frequency
-## 39:
+## 39:279. Perfect Squares
+## 40:
+## 41:
+## 42:
+## 43:
+## 44:
+## 45:
+## 46:
+## 47:
+## 48:
+## 49:
+## 50:
+## 51:
+## 52:
+## 53:
+
 
 
