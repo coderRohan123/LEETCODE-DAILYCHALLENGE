@@ -40,7 +40,7 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 39:279. Perfect Squares
 ## 40:368. Largest Divisible Subset
 ## 41:647. Palindromic Substrings
-## 42:
+## 42:1463. Cherry Pickup II
 ## 43:
 ## 44:
 ## 45:
