@@ -45,7 +45,7 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 44:2108. Find First Palindromic String in the Array
 ## 45:2149. Rearrange Array Elements by Sign
 ## 46:2971. Find Polygon With the Largest Perimeter
-## 47:
+## 47:1481. Least Number of Unique Integers after K Removals
 ## 48:
 ## 49:
 ## 50:
