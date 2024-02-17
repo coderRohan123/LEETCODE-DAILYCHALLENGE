@@ -46,7 +46,7 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 45:2149. Rearrange Array Elements by Sign
 ## 46:2971. Find Polygon With the Largest Perimeter
 ## 47:1481. Least Number of Unique Integers after K Removals
-## 48:
+## 48:1642. Furthest Building You Can Reach
 ## 49:
 ## 50:
 ## 51:
