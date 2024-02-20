@@ -48,8 +48,8 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 47:1481. Least Number of Unique Integers after K Removals
 ## 48:1642. Furthest Building You Can Reach
 ## 49:2402. Meeting Rooms III
-## 50:
-## 51:
+## 50:231. Power of Two
+## 51:268. Missing Number
 ## 52:
 ## 53:
 
