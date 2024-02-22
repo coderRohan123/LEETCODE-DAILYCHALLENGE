@@ -51,7 +51,7 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 50:231. Power of Two
 ## 51:268. Missing Number
 ## 52:201. Bitwise AND of Numbers Range
-## 53:
+## 53:997. Find the Town Judge
 
 
 
