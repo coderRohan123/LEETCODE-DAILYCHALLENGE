@@ -53,7 +53,7 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 52:201. Bitwise AND of Numbers Range
 ## 53:997. Find the Town Judge
 ## 55:787. Cheapest Flights Within K Stops
-## 56:
+## 56:2092. Find All People With Secret
 ## 57:
 ## 58:
 ## 59:
