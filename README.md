@@ -54,7 +54,7 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 53:997. Find the Town Judge
 ## 55:787. Cheapest Flights Within K Stops
 ## 56:2092. Find All People With Secret
-## 57:
+## 57:2709. Greatest Common Divisor Traversal
 ## 58:
 ## 59:
 ## 60:
