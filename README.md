@@ -56,7 +56,7 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 56:2092. Find All People With Secret
 ## 57:2709. Greatest Common Divisor Traversal
 ## 58:100. Same Tree
-## 59:
+## 59:543. Diameter of Binary Tree
 ## 60:
 ## 61:
 ## 62:
