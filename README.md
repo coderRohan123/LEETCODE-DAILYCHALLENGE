@@ -66,7 +66,7 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 66:1750. Minimum Length of String After Deleting Similar Ends
 ## 67:141. Linked List Cycle
 ## 68:876. Middle of the Linked List
-## 69:
+## 69:3005. Count Elements With Maximum Frequency
 ## 70:
 ## 71:
 ## 72:
