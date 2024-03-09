@@ -67,7 +67,7 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 67:141. Linked List Cycle
 ## 68:876. Middle of the Linked List
 ## 69:3005. Count Elements With Maximum Frequency
-## 70:
+## 70:2540. Minimum Common Value
 ## 71:
 ## 72:
 ## 73:
