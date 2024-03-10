@@ -68,7 +68,7 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 68:876. Middle of the Linked List
 ## 69:3005. Count Elements With Maximum Frequency
 ## 70:2540. Minimum Common Value
-## 71:
+## 71:349. Intersection of Two Arrays
 ## 72:
 ## 73:
 ## 74:
