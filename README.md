@@ -70,8 +70,8 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 70:2540. Minimum Common Value
 ## 71:349. Intersection of Two Arrays
 ## 72:791. Custom Sort String
-## 73:
-## 74:
+## 73:1171. Remove Zero Sum Consecutive Nodes from Linked List
+## 74:2485. Find the Pivot Integer
 ## 75:
 ## 76:
 ## 77:
