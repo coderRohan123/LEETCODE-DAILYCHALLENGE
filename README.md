@@ -72,7 +72,7 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 72:791. Custom Sort String
 ## 73:1171. Remove Zero Sum Consecutive Nodes from Linked List
 ## 74:2485. Find the Pivot Integer
-## 75:
+## 75:930. Binary Subarrays With Sum
 ## 76:
 ## 77:
 
