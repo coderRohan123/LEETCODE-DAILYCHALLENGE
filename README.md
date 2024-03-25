@@ -83,5 +83,5 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 83:234. Palindrome Linked List
 ## 84:143. Reorder List
 ## 85:287. Find the Duplicate Number
-
+## 86:442. Find All Duplicates in an Array
 
