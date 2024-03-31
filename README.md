@@ -89,4 +89,5 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 89:2958. Length of Longest Subarray With at Most K Frequency
 ## 90:2962. Count Subarrays Where Max Element Appears at Least K Times
 ## 91:992. Subarrays with K Different Integers
+## 92:2444. Count Subarrays With Fixed Bounds
 
