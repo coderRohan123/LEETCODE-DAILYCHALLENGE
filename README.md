@@ -91,4 +91,5 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 91:992. Subarrays with K Different Integers
 ## 92:2444. Count Subarrays With Fixed Bounds
 ## 58. Length of Last Word
+## 59: 205. Isomorphic Strings
 
