@@ -97,5 +97,6 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 62:1544. Make The String Great
 ## 63:1249. Minimum Remove to Make Valid Parentheses
 ## 64:678. Valid Parenthesis String
+## 65:1700. Number of Students Unable to Eat Lunch
 
 
