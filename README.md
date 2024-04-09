@@ -90,14 +90,14 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 90:2962. Count Subarrays Where Max Element Appears at Least K Times
 ## 91:992. Subarrays with K Different Integers
 ## 92:2444. Count Subarrays With Fixed Bounds
-## 58. Length of Last Word
-## 59: 205. Isomorphic Strings
-## 60:79. Word Search
-## 61:1614. Maximum Nesting Depth of the Parentheses
-## 62:1544. Make The String Great
-## 63:1249. Minimum Remove to Make Valid Parentheses
-## 64:678. Valid Parenthesis String
-## 65:1700. Number of Students Unable to Eat Lunch
-## 66:2073. Time Needed to Buy Tickets
+## 93. Length of Last Word
+## 94: 205. Isomorphic Strings
+## 95:79. Word Search
+## 96:1614. Maximum Nesting Depth of the Parentheses
+## 97:1544. Make The String Great
+## 98:1249. Minimum Remove to Make Valid Parentheses
+## 99:678. Valid Parenthesis String
+## 100:1700. Number of Students Unable to Eat Lunch
+## 101:2073. Time Needed to Buy Tickets
 
 
