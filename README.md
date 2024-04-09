@@ -98,5 +98,6 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 63:1249. Minimum Remove to Make Valid Parentheses
 ## 64:678. Valid Parenthesis String
 ## 65:1700. Number of Students Unable to Eat Lunch
+## 66:2073. Time Needed to Buy Tickets
 
 
