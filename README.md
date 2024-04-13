@@ -101,8 +101,8 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 101:2073. Time Needed to Buy Tickets
 ## 102:950. Reveal Cards In Increasing Order
 ## 103:402. Remove K Digits
-## 104:
-## 105:
+## 104:42. Trapping Rain Water
+## 105:85. Maximal Rectangle
 ## 106:
 ## 107:
 ## 108:
