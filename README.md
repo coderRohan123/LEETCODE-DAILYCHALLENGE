@@ -103,13 +103,14 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 103:402. Remove K Digits
 ## 104:42. Trapping Rain Water
 ## 105:85. Maximal Rectangle
-## 106:988. Smallest String Starting From Leaf
-## 107:623. Add One Row to Tree
-## 108:129. Sum Root to Leaf Numbers
-## 109:404. Sum of Left Leaves
-## 110:
-## 111:
-## 112:
+## 106:404. Sum of Left Leaves
+## 107:129. Sum Root to Leaf Numbers
+## 108:623. Add One Row to Tree
+## 109:988. Smallest String Starting From Leaf
+## 110:463. Island Perimeter
+## 111:200. Number of Islands
+## 112:1992. Find All Groups of Farmland
 ## 113:
+## 114:
 
 
