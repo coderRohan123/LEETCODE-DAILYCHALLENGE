@@ -111,6 +111,9 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 111:200. Number of Islands
 ## 112:1992. Find All Groups of Farmland
 ## 113:1971. Find if Path Exists in Graph
-## 114:
+## 114:752. Open the Lock
+## 115:310. Minimum Height Trees
+## 116:311. 1137. N-th Tribonacci Number
+## 117:1138. 2370. Longest Ideal Subsequence
 
 
