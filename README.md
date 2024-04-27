@@ -115,5 +115,7 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 115:310. Minimum Height Trees
 ## 116:311. 1137. N-th Tribonacci Number
 ## 117:1138. 2370. Longest Ideal Subsequence
+## 118:1289. Minimum Falling Path Sum II
+## 119:514. Freedom Trail
 
 
