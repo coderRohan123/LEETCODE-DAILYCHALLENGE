@@ -118,5 +118,6 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 118:1289. Minimum Falling Path Sum II
 ## 119:514. Freedom Trail
 ## 120:834. Sum of Distances in Tree
+## 121:2997. Minimum Number of Operations to Make Array XOR Equal to K
 
 
