@@ -119,5 +119,6 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 119:514. Freedom Trail
 ## 120:834. Sum of Distances in Tree
 ## 121:2997. Minimum Number of Operations to Make Array XOR Equal to K
-
+## 122: 1915. Number of Wonderful Substrings
+## 123:2000. Reverse Prefix of Word
 
