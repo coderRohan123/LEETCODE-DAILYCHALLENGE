@@ -122,4 +122,6 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 122: 1915. Number of Wonderful Substrings
 ## 123:2000. Reverse Prefix of Word
 ## 124:2441. Largest Positive Integer That Exists With Its Negative
+## 125:165. Compare Version Numbers
+## 126:881. Boats to Save People
 
