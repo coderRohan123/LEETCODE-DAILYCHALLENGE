@@ -125,4 +125,13 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 125:165. Compare Version Numbers
 ## 126:881. Boats to Save People
 ## 127:237. Delete Node in a Linked List
+## 128:2487. Remove Nodes From Linked List
+## 129:2816. Double a Number Represented as a Linked List
+## 130:506. Relative Ranks
+## 131:3075. Maximize Happiness of Selected Children
+## 132:
+## 133:
+## 134:
+## 135:
+## 136:
 
