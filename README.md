@@ -129,7 +129,7 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 129:2816. Double a Number Represented as a Linked List
 ## 130:506. Relative Ranks
 ## 131:3075. Maximize Happiness of Selected Children
-## 132:
+## 132:786. K-th Smallest Prime Fraction
 ## 133:
 ## 134:
 ## 135:
