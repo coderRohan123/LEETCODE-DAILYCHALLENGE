@@ -130,7 +130,7 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 130:506. Relative Ranks
 ## 131:3075. Maximize Happiness of Selected Children
 ## 132:786. K-th Smallest Prime Fraction
-## 133:
+## 133:857. Minimum Cost to Hire K Workers
 ## 134:
 ## 135:
 ## 136:
