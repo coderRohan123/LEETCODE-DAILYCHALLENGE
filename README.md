@@ -131,7 +131,13 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 131:3075. Maximize Happiness of Selected Children
 ## 132:786. K-th Smallest Prime Fraction
 ## 133:857. Minimum Cost to Hire K Workers
-## 134:
-## 135:
-## 136:
+## 134:2373. Largest Local Values in a Matrix
+## 135:861. Score After Flipping Matrix
+## 136:1219. Path with Maximum Gold
+## 137:
+## 138:
+## 139:
+## 140:
+
+
 
