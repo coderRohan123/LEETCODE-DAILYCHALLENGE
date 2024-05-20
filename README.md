@@ -135,9 +135,11 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 135:861. Score After Flipping Matrix
 ## 136:1219. Path with Maximum Gold
 ## 137:2812. Find the Safest Path in a Grid
-## 138:
-## 139:
-## 140:
+## 138:2331. Evaluate Boolean Binary Tree
+## 139:1325. Delete Leaves With a Given Value
+## 140:979. Distribute Coins in Binary Tree.
+## 141:3068. Find the Maximum Sum of Node Values 
+## 142:1863. Sum of All Subset XOR Totals
 
 
 
