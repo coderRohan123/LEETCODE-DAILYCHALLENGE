@@ -140,6 +140,8 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 140:979. Distribute Coins in Binary Tree.
 ## 141:3068. Find the Maximum Sum of Node Values 
 ## 142:1863. Sum of All Subset XOR Totals
-
+## 143: 78. Subsets
+## 144:131 Palindrome Partitioning
+## 145:2597. The Number of Beautiful Subsets
 
 
