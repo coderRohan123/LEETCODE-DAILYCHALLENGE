@@ -143,5 +143,6 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 143: 78. Subsets
 ## 144:131 Palindrome Partitioning
 ## 145:2597. The Number of Beautiful Subsets
+## 146:1255. Maximum Score Words Formed by Letters
 
 
