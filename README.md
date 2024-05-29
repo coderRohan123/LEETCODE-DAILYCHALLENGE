@@ -148,7 +148,7 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 148:552. Student Attendance Record II
 ## 149:1608. Special Array With X Elements Greater Than or Equal X
 ## 150:1208. Get Equal Substrings Within Budget
-## 151:
+## 151:1404. Number of Steps to Reduce a Number in Binary Representation to One
 ## 152:
 ## 153
 ## 154
