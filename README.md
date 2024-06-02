@@ -151,6 +151,7 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 151:1404. Number of Steps to Reduce a Number in Binary Representation to One
 ## 152:1442. Count Triplets That Can Form Two Arrays of Equal XOR
 ## 153:260. Single Number III
-## 154
+## 154:3110. Score of a String
+## 155:344. Reverse String
 
 
