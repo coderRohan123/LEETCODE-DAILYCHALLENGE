@@ -155,5 +155,13 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 155:344. Reverse String
 ## 156:2486. Append Characters to String to Make Subsequence
 ## 157:409. Longest Palindrome
+## 158:Find Common Characters
+## 159:Hand of Straights
+## 160:Replace Words
+## 161: Continuous Subarray Sum
+## 162: Subarray Sums Divisible by K
+## 163:
+## 164:
+
 
 
