@@ -163,6 +163,7 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 163:1051. Height Checker
 ## 164:1122. Relative Sort Array
 ## 165:75. Sort Colors
+## 166:2037. Minimum Number of Moves to Seat Everyone
 
 
 
