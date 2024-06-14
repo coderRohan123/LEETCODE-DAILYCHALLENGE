@@ -164,6 +164,7 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 164:1122. Relative Sort Array
 ## 165:75. Sort Colors
 ## 166:2037. Minimum Number of Moves to Seat Everyone
+## 167:945. Minimum Increment to Make Array Unique
 
 
 
