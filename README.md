@@ -166,6 +166,7 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 166:2037. Minimum Number of Moves to Seat Everyone
 ## 167:945. Minimum Increment to Make Array Unique
 ## 168:502. IPO
+## 169:633. Sum of Square Numbers
 
 
 
