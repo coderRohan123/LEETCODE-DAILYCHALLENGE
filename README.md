@@ -168,6 +168,6 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 168:502. IPO
 ## 169:633. Sum of Square Numbers
 ## 170:826. Most Profit Assigning Work
-
+## 171:1482. Minimum Number of Days to Make m Bouquets
 
 
