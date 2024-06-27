@@ -174,9 +174,9 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 174:1248. Count Number of Nice Subarrays
 ## 175:1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit
 ## 176:995. Minimum Number of K Consecutive Bit Flips
-## 177:
-## 178:
-## 179:
+## 177:1038. Binary Search Tree to Greater Sum Tree
+## 178:1382. Balance a Binary Search Tree
+## 179:1791. Find Center of Star Graph
 ## 180:
 
 
