@@ -180,7 +180,7 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 180:2285. Maximum Total Importance of Roads
 ## 181:2192. All Ancestors of a Node in a Directed Acyclic Graph
 ## 182:1579. Remove Max Number of Edges to Keep Graph Fully Traversable
-## 183:
+## 183:1550. Three Consecutive Odds
 ## 184:
 ## 185:
 ## 186:
