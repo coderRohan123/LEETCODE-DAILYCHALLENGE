@@ -193,7 +193,7 @@ ALL CODES OF LEETCODE DAILY CHALLENGE IS HERE
 ## 193:1190. Reverse Substrings Between Each Pair of Parentheses
 ## 194:1717. Maximum Score From Removing Substrings
 ## 195:2751. Robot Collisions
-## 196:
+## 196:726. Number of Atoms
 ## 197:
 ## 198:
 
